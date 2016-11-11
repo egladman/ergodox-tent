@@ -1,16 +1,11 @@
 # ergodox-tent
 
-A tent for the [Ergodox acrylic case designed by Litster](http://deskthority.net/wiki/ErgoDox).  The design was implemented using [clj-scad](https://github.com/farrellm/scad-clj).
-
-![design](resources/tent.png)
-
-![my printed version](resources/printed.jpg)
+A tent for the [Ergodox acrylic case designed by Litster](http://deskthority.net/wiki/ErgoDox). This a fork of adereth's [ergodox-tent](https://github.com/adereth/ergodox-tent), that offers a major reduction in materials.
+![design](render.png)
 
 ## Usage
 
-If you're just interested in printing your own, just download [resources/tent.stl](resources/tent.stl) and feed it into your favorite software for 3D printing.
-
-If you'd like to contribute, I'd prefer you make changes to the original Clojure source.  I've also included the [generated SCAD](resources/tent.scad) if you want to experiment and don't have a Clojure environment set up.
+If you're just interested in printing your own, just download [tent.stl](tent.stl) and feed it into your favorite software for 3D printing.
 
 ## License
 
